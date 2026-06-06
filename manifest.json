@@ -6,10 +6,6 @@
     {"name": "JAV", "file": "jav.json"},
     {"name": "BDSM", "file": "bdsm.json"},
     {"name": "Hardcore & violent", "file": "hardcore.json"},
-    {"name": "BDSM", "file": "bdsm.json"},
-    {"name": "BDSM", "file": "bdsm.json"},
-    {"name": "BDSM", "file": "bdsm.json"},
-    {"name": "BDSM", "file": "bdsm.json"},
-    {"name": "BDSM", "file": "bdsm.json"}
+    {"name": "all", "file": "blocked_domains.json"}
   ]
 }
