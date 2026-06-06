@@ -1,11 +1,21 @@
 {
   "categories": [
-    {"name": "Extreme Fetish & Taboo", "file": "fetish.json"},
-    {"name": "Incest", "file": "incest.json"},
-    {"name": "Hentai", "file": "hentai.json"},
-    {"name": "JAV", "file": "jav.json"},
-    {"name": "BDSM", "file": "bdsm.json"},
-    {"name": "Hardcore & violent", "file": "hardcore.json"},
-    {"name": "all", "file": "blocked_domains.json"}
+    {"name": "Mainstream Porn", "file": "mainstream_porn.json"},
+    {"name": "Other Adult", "file": "other_adult.json"},
+    {"name": "JAV & Asian", "file": "jav_asian.json"},
+    {"name": "Mature & MILF", "file": "mature_milf.json"},
+    {"name": "Gay, Lesbian & LGBT", "file": "gay_lgbt.json"},
+    {"name": "Teen & Young", "file": "teen_young.json"},
+    {"name": "Hentai & Anime", "file": "hentai_anime.json"},
+    {"name": "BDSM & Fetish", "file": "bdsm_fetish.json"},
+    {"name": "Bestiality & Zoo", "file": "bestiality_zoo.json"},
+    {"name": "Cam & Live", "file": "cam_live.json"},
+    {"name": "Dating & Escort", "file": "dating_escort.json"},
+    {"name": "Scat", "file": "scat.json"},
+    {"name": "Rape & Violent", "file": "rape_violent.json"},
+    {"name": "Incest & Taboo", "file": "incest_taboo.json"},
+    {"name": "Piracy & Torrents", "file": "piracy_torrents.json"},
+    {"name": "Gambling", "file": "gambling.json"},
+    {"name": "Drugs", "file": "drugs.json"}
   ]
 }
