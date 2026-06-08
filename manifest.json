@@ -2,16 +2,16 @@
   "categories": [
     {"name": "Mainstream Porn", "file": "mainstream_porn.json"},
     {"name": "Other Adult", "file": "other_adult.json"},
-    {"name": "JAV & Asian", "file": "jav_asian.json"},
-    {"name": "Mature & MILF", "file": "mature_milf.json"},
+    {"name": "JAV/Asian", "file": "jav_asian.json"},
+    {"name": "Mature/MILF", "file": "mature_milf.json"},
     {"name": "Teen", "file": "teen_young.json"},
-    {"name": "Hentai & Anime", "file": "hentai_anime.json"},
-    {"name": "BDSM & Fetish", "file": "bdsm_fetish.json"},
-    {"name": "Bestiality & Zoo", "file": "bestiality_zoo.json"},
-    {"name": "Cam & Live", "file": "cam_live.json"},
-    {"name": "Dating & Escort", "file": "dating_escort.json"},
-    {"name": "Rape & Violent", "file": "rape_violent.json"},
-    {"name": "Incest & Taboo", "file": "incest_taboo.json"},
-    {"name": "Piracy & Torrents", "file": "piracy_torrents.json"}
+    {"name": "Hentai/Anime", "file": "hentai_anime.json"},
+    {"name": "BDSM/Fetish", "file": "bdsm_fetish.json"},
+    {"name": "Animal/Zoo", "file": "bestiality_zoo.json"},
+    {"name": "Cam/Live", "file": "cam_live.json"},
+    {"name": "Dating/Escort", "file": "dating_escort.json"},
+    {"name": "Rape/Violent", "file": "rape_violent.json"},
+    {"name": "Incest/Taboo", "file": "incest_taboo.json"},
+    {"name": "Piracy/Torrents", "file": "piracy_torrents.json"}
   ]
 }
